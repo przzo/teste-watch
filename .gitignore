@@ -1,2 +1,7 @@
 # Docs do avaliador
 /docs/avaliador.md
+
+node_modules/
+cypress/videos/
+cypress/screenshots/
+cypress.env.json
